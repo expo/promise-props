@@ -1,5 +1,5 @@
 {
-  "name": "@exponent/promise-props",
+  "name": "promise-props",
   "version": "1.0.0",
   "description": "Like Bluebird's Promise.props; like Promise.all but for an object with named properties",
   "main": "index.js",
