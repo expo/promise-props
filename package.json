@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/exponentjs/promise-props#readme",
   "devDependencies": {
-    "jest-cli": "^0.4.5"
+    "jest-cli": "^25.1.0"
   }
 }
